@@ -18,10 +18,12 @@ Example:
 
 <pre>
   <code>
+  
 
-python3 iptodomain3.py -f ips.txt  -w output.csv -v
 
-python3 iptodomain.py -l 103.22.201.25 -k 103.22.201.255 -o result.txt
+python3 ip2d.py -f ips.txt  -w output.csv -v
+
+python3 ip2d.py -l 103.22.201.25 -k 103.22.201.255 -o result.txt
 
 </code>
 </pre>
@@ -35,7 +37,7 @@ Usage:
 python3 iptodomain.py 
 
 
-usage: iptodomain.py [-h] [-l FIRST_IP] [-k LAST_IP] [-f INPUT_FILE] [-w FILE2] [-o FILE1] [-v] [-r FILE3]
+usage: ip2d.py [-h] [-l FIRST_IP] [-k LAST_IP] [-f INPUT_FILE] [-w FILE2] [-o FILE1] [-v] [-r FILE3]
 
   -h, --help     show this help message and exit
   
@@ -64,4 +66,4 @@ VirusTotal API key in the code.
   
   This tool was created by:
   
-  Juan Esteban Valencia Pantoja
+  Juan Esteban Valencia Pantoja & 3rr0r-404
