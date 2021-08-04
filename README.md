@@ -34,7 +34,7 @@ Usage:
 <pre>
   <code>
 
-python3 iptodomain.py 
+python3 ip2d.py 
 
 
 usage: ip2d.py [-h] [-l FIRST_IP] [-k LAST_IP] [-f INPUT_FILE] [-w FILE2] [-o FILE1] [-v] [-r FILE3]
