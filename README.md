@@ -66,4 +66,4 @@ VirusTotal API key in the code.
   
   This tool was created by:
   
-  Juan Esteban Valencia Pantoja & 3rr0r-404
+  Juan Esteban Valencia Pantoja & 3rr0r-404 | RobinTrigon
